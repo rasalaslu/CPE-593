@@ -1,1 +1,2 @@
-CPE-593 homeworks
+CPE-593 Applied Data Structure & Algorithm
+C++
